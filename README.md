@@ -25,6 +25,7 @@ SQLParser.ahk - I use this for formatting SQL statements in logs using Sublime (
 - order by
 (note it also breaks in "], arguments" as we normally end sql in logs with this. 
 
+STEPS:
 1) Copy the SQL from logs 
 2) paste it into sublime 
 3) run SQLParser.ahk
